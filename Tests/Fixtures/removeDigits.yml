@@ -1,3 +1,4 @@
 - { source: "abc", result: "abc"}
-- { source: "a1b2c", result: "abc"}
+- { source: "alamapsa8a1b2c", result: "alamapsa8"}
+- { source: "asfd", result: "asfd"}
 - { source: "123456", result: ""}
